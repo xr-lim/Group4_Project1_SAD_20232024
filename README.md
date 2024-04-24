@@ -15,7 +15,8 @@ To address the above challenges, we propose a mobile application that streamline
   <tr>
     <td>Lim Xin Rou</td>
     <td>A23CS0240</td>
-    <td><img src="https://github.com/jjn7702/SECJ1023-PT2/assets/147809633/571a73b5-f6fa-447e-bfb0-11a170451d11" height="200" width="130"></td>
+    <td><img src="https://github.com/xr-lim/Group4_Project1_SAD_20232024/assets/133843320/68017514-42ec-4d66-84b7-fc9962db2cd6"
+"height="200" width="130"></td>
   </tr>
   <tr>
     <td>Chen Wei Jay Nickolas</td>
@@ -24,13 +25,13 @@ To address the above challenges, we propose a mobile application that streamline
   </tr>
   <tr>
     <td>Ammar Abdulrahman Anaam Mudhsh</td>
-    <td>A23CS0240</td>
-    <td><img src= "https://github.com/xr-lim/Group4_Project1_SAD_20232024/assets/133843320/cb1ca455-b079-46f1-b879-c64cb7317b0b" height="200" width="130"
+    <td>A23CS0287</td>
+    <td><img src= "https://github.com/xr-lim/Group4_Project1_SAD_20232024/assets/133843320/f6d0ee85-ba33-47c2-bb1d-ebfebb8cc96e" height="200" width="130"
 ></td>
 </tr>
   <tr>
     <td>Karen Voon Xiu Wen</td>
-    <td>A23CS5028</td>
+    <td>A23CS0229</td>
     <td><img src= "https://github.com/xr-lim/Group4_Project1_SAD_20232024/assets/133843320/ad26694b-eeae-4de9-bd39-d61c177e09a0"
  height="200" width="130"></td>
   </tr>
