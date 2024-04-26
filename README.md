@@ -38,5 +38,5 @@ To address the above challenges, we propose a mobile application that streamline
 </table>
 
 ## Phase 1: Project proposal and planning 
-- kanban board link :
+- kanban board link : https://github.com/users/xr-lim/projects/1/views/1
 - report link :
