@@ -39,12 +39,16 @@ To address the above challenges, we propose a mobile application that streamline
 
 ## Phase 1: Project proposal and planning 
 - kanban board link : https://github.com/users/xr-lim/projects/1/views/1
-- report link :[_SAD Project proposal (3).pdf](https://github.com/xr-lim/Group4_Project1_SAD_20232024/files/15443820/_SAD.Project.proposal.3.pdf)
+- report link : [_SAD Project proposal.pdf](https://github.com/xr-lim/Group4_Project1_SAD_20232024/files/15443820/_SAD.Project.proposal.3.pdf)
 
 ## Phase 2: 
-- report link: [Project phase 2 by group 4.pdf](https://github.com/xr-lim/Group4_Project1_SAD_20232024/files/15443824/Project.phase.2.by.group.4.pdf)
+- report link: [Project phase 2.pdf](https://github.com/xr-lim/Group4_Project1_SAD_20232024/files/15443824/Project.phase.2.by.group.4.pdf)
 
 ## Phase 3:
 - kanban board link : https://github.com/users/xr-lim/projects/2
+- report link : [SAD Project phase 3.pdf](https://github.com/user-attachments/files/16014046/SAD.Project.phase.3.pdf)
+- presentation slides: [slides presentation-group4.pdf](https://github.com/user-attachments/files/16014092/slides.presentation.group4.pdf)
+
+
 
 
